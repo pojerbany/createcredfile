@@ -1,0 +1,1 @@
+CreateCredFile.exe user.cred Password /username <username> /password <password> /ExePath <path> /IpAddress /Hostname /OSUsername <domain\user> /AppType <Application ID /EntropyFile /DpapiMachineProtection /DpapiUserProtection
